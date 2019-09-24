@@ -1,0 +1,7 @@
+Manifest-Version: 1.0
+Built-By: harsh.kumar1
+Class-Path: demoMaven1-0.0.1-SNAPSHOT.jar
+Build-Jdk: 1.8.0_222
+Created-By: Maven Integration for Eclipse
+Main-Class: com.demoMaven.App
+
